@@ -1,5 +1,5 @@
 ---
-title: 'Your first blog post'
+title: 'Your second blog post'
 date: '2021-01-01'
 description: 'Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet '
 coverUrl: 'https://i.imgur.com/8MNpdtD.png'
